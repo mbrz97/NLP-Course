@@ -1,0 +1,3 @@
+Selected words: ['named', 'started', 'peddler', 'said']
+Porter stems: ['name', 'start', 'peddler', 'said']
+Lancaster stems: ['nam', 'start', 'peddl', 'said']

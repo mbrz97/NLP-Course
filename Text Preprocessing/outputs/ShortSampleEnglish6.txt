@@ -1,0 +1,3 @@
+Selected words: ['well']
+Porter stems: ['well']
+Lancaster stems: ['wel']
