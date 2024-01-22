@@ -1,0 +1,4 @@
+football -> {'sport': 0.9999621809685715, 'technology': 0.1319916635298333, 'computer': 0.11821288978511235}
+sport -> {'computer': 0.10957246722727652, 'technology': 0.12336583033843335, 'basketball': 0.6425300444738722}
+computer -> {'basketball': 0.8320502943378437, 'technology': 0.9999035633345557, 'laptop': 1.0}
+website -> {'laptop': 0.9895702125995407, 'technology': 0.991475302140086, 'football': 0.2600212659000183}
